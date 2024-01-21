@@ -9,5 +9,4 @@ public class FrequencyCalculatorApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(FrequencyCalculatorApplication.class, args);
 	}
-
 }
